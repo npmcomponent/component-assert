@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var stack = require('stack');
-var equals = require('equals');
+var stack = require('component-stack');
+var equals = require('jkroso-equals');
 
 /**
  * Assert `expr` with optional failure `msg`.
